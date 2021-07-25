@@ -1,0 +1,22 @@
+.form {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .form button {
+    margin-top: 20px !important;
+  }
+  
+  .all_todos {
+    /* border: 2px solid black; */
+    padding: 20px;
+  }
+  
+  .todo {
+    background-color: #ffeaa7;
+    padding: 20px;
+    /* margin: 20px; */
+    border-radius: 20px;
+    /* width: 200px; */
+  }
+  
