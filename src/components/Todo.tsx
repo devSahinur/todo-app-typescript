@@ -10,10 +10,10 @@ const Todo: React.FC<IProps> = ({ todo, removeTodo }: IProps): JSX.Element => {
     <>
       <div className="all_todos">
         <div className="todo d-flex justify-content-between align-items-center">
-          <h5>Todo: {todo}</h5>
+          <h3>Todo: {todo}</h3>
           <button
             onClick={() => removeTodo(todo)}
-            className="btn btn-outline-danger"
+            className="delete"
           >
             Delete
           </button>
