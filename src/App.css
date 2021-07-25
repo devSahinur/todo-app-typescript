@@ -81,6 +81,7 @@
     outline: none;
     background:red;
     color: #fff;
+    margin-top: 2px;
     text-transform: capitalize;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
